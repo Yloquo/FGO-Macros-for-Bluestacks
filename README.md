@@ -12,12 +12,17 @@ How to use:
 
 !!!You're using BlueStacks!!!
 
+!!!You can't just put the macros in the macro folder!!! I did that and it didn't work. 
+
+Therefore, we need to import them through the Bluestacks Macros UI.
+
+Also importing doesn't work if the macros are in the macro folder. I did that as well and it also doesn't work. 
+(Feel free to try them, though. It's not going to ruin everything forever.)
+
+
 In Bluestacks Macro recorder (shortcut: Ctrl+Shift+7) icon weird clipboard with a play icon, found under ... icon, 
 click the import icon (on the same horizontal line as "Record new macro", square with the arrow pointing down).
 Go to wherever you've put the macros, and select them. 
-!!!You can't just put the macros in the macro folder!!! I did that and it didn't work. 
-Also importing doesn't work if the macros are in the macro folder. I did that as well and it also doesn't work. 
-(Feel free to try them, though. It's not going to ruin everything forever.)
 
 Hit the play icon under action that lines up to the correct macro. The settings are to the right of that, and Skill Up is best used with that icon.
 They should run indefinitely (except for skill up, which works best if it doesn't), but if not, go check that box.
