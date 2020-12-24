@@ -3,7 +3,7 @@ Macros which consume resources for servant power are held here.
 
 ---
 
-I made Bluestacks macros for EXP feeding, Skill Uping, and CE Merging. They can handle a bit of lag as well.
+I made Bluestacks macros for EXP feeding, Skill Uping, CE Merging, and mass ascensions. They can handle a bit of lag as well.
 This is because FGO is not designed to handle high volumes of action, but thanks to FGA, we can lotto forever. 
 But it's kinda a pain to clean up, so here we are. Automating even the minor actions.
 
@@ -46,7 +46,7 @@ If you're really worried about QP efficiency, don't use this. Otherwise, you're 
 This is affected by lag spikes, but it'll probably make the process miss a cycle. It won't fail spectacularly. 
 It'll also hang up if you're trying to feed a CE that's equipped.
 
- 
+Mass Ascension: It ascends all servants that can be ascended, except for the for displayed servant. Since servants talk to you while ascending, there is a lot of waiting between ascending and going to the next servant.
 
 ----
 
@@ -80,6 +80,11 @@ you're absolutely sure you've protected any CEs you don't want to mulch!
 This doesn't go too far on the CE select screen (About 7 lines), but for safety, lock your CEs!!! 
 
 
+Mass Ascension: 
+Have at least 2 servants to ascend.
+Servant select screen is set to lowest, and filters are configured properly.
+
+
 ----
 
 How they work:
@@ -104,6 +109,8 @@ CE Merging: It opens the CE to mulch screen, scrolls down about 7 lines to selec
 This it will eventually eat CEs you want to keep, so you need to lock that much CEs to ensure the safety of your box.
 The macro won't unlock your CEs.
 
+
+Mass Ascension: It selects the second servant, because the entire hitbox which chooses the first servant in the servant select screen is overlapped by the "choose a servant" hitbox in the ascension screen. Because of this, it's more useful the less you want to ascend the first servant. 
 
 ---
 
