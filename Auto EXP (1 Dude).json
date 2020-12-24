@@ -437,7 +437,7 @@
       "EventType": "MouseUp"
     }
   ],
-  "LoopType": "TillLoopNumber",
+  "LoopType": "UntilStopped",
   "LoopNumber": 1,
   "LoopTime": 0,
   "LoopInterval": 0,
