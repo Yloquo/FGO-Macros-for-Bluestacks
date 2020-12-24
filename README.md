@@ -16,11 +16,11 @@ In Bluestacks Macro recorder (shortcut: Ctrl+Shift+7) icon weird clipboard with 
 click the import icon (on the same horizontal line as "Record new macro", square with the arrow pointing down).
 Go to wherever you've put the macros, and select them. 
 !!!You can't just put the macros in the macro folder!!! I did that and it didn't work. 
-Also importing doesn't work if the macros in the macro folder. I did that as well and it also doesn't work. 
+Also importing doesn't work if the macros are in the macro folder. I did that as well and it also doesn't work. 
 (Feel free to try them, though. It's not going to ruin everything forever.)
 
 Hit the play icon under action that lines up to the correct macro. The settings are to the right of that, and Skill Up is best used with that icon.
-They should run indefinitely (except for skill up, which works best if not), but if not, go check that box.
+They should run indefinitely (except for skill up, which works best if it doesn't), but if not, go check that box.
 
 
 ---
@@ -67,10 +67,12 @@ Currently in the skill up screen with the skill you want to up selected.
 CE Merging: 
 Have set a CE to feed EXP to. This will not manually limit break your CE, so you should LB it first.
 CE select screen is set to largest (out of the three sizes in the bottom-left). I think it can work with smaller sizes, though.
-!!! You've set the filters so the CEs you want to feed are on the top on the CE select screen.
-!!!! You're absolutely sure you've protected any CEs you don't want to mulch! 
-This doesn't go too far on the CE select screen (About 7 lines), but for safety, lock your CEs!!! 
 Equipped CEs will make the process hang, so if you have random low-level CEs equipped, unequip them.
+
+!!! You've set the filters so the CEs you want to feed are on the top on the CE select screen and
+you're absolutely sure you've protected any CEs you don't want to mulch! 
+This doesn't go too far on the CE select screen (About 7 lines), but for safety, lock your CEs!!! 
+
 
 ----
 
