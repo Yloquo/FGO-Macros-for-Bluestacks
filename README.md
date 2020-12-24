@@ -72,7 +72,7 @@ CE Merging:
 Have set a CE to feed EXP to. This will not manually limit break your CE, so you should LB it first.
 CE select screen is set to largest (out of the three sizes in the bottom-left). I think it can work with smaller sizes, though.
 Equipped CEs will make the process hang, so if you have random low-level CEs equipped, unequip them.
-I haven't tested what happens if there is no more stomach for EXP, but I suspect it'll hang. 
+If there's no more stomach, the process will hang on the select a servant screen. 
 
 !!! You've set the filters so the CEs you want to feed are on the top on the CE select screen and
 you're absolutely sure you've protected any CEs you don't want to mulch! 
@@ -98,16 +98,12 @@ If it selects a full servant, it just misses a cycle, but won't fail spectacular
 For both, there’s no need to worry about failing, if there’s no more exp cards, it will hang on the “There’s no more EXP” box, 
 and if there’s no more stomach for exp, it will hang on the exp select screen. 
 
-*I’d also assume that this can work for ascensions since the buttons are in the same place, but I’ve already ascended my servants.
-All of them. In unrelated news, I'm unable to work on an automated ascension macro for the time being.
-
 Skill up: It skills up the skill for n times, where n is the number set in settings. Note that repeat once means running one time,
 and repeating 0 times means 0 times, since 1 run * 0 times = 0.
 
 CE Merging: It opens the CE to mulch screen, scrolls down about 7 lines to select the CEs, and feeds to the selected CE. 
 This it will eventually eat CEs you want to keep, so you need to lock that much CEs to ensure the safety of your box.
 The macro won't unlock your CEs.
-
 
 Mass Ascension: It selects the second servant, because the entire hitbox which chooses the first servant in the servant select screen is overlapped by the "choose a servant" hitbox in the ascension screen. Because of this, it's more useful the less you want to ascend the first servant. 
 
