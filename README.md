@@ -13,7 +13,7 @@ How to use:
 !!!You're using BlueStacks!!!
 
 In Bluestacks Macro recorder (shortcut: Ctrl+Shift+7) icon weird clipboard with a play icon, found under ... icon, 
-click the import icon (on the same horizontal line as "Record new macro", sqaure with the arrow pointing down).
+click the import icon (on the same horizontal line as "Record new macro", square with the arrow pointing down).
 Go to wherever you've put the macros, and select them. 
 !!!You can't just put the macros in the macro folder!!! I did that and it didn't work. 
 Also importing doesn't work if the macros in the macro folder. I did that as well and it also doesn't work. 
@@ -87,7 +87,7 @@ For both, there’s no need to worry about failing, if there’s no more exp car
 and if there’s no more stomach for exp, it will hang on the exp select screen. 
 
 *I’d also assume that this can work for ascensions since the buttons are in the same place, but I’ve already ascended my servants.
-All of them. In unrelated news, I'm not able to work on an automated ascension macro for the time being.
+All of them. In unrelated news, I'm unable to work on an automated ascension macro for the time being.
 
 Skill up: It skills up the skill for n times, where n is the number set in settings. Note that repeat once means running one time,
 and repeating 0 times means 0 times, since 1 run * 0 times = 0.
