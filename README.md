@@ -1,10 +1,7 @@
 # FGO-Macros-for-Bluestacks
 
 ---
-
-I made Bluestacks macros for EXP feeding, Skill Uping, CE Merging, and mass ascensions. They can handle a bit of lag as well.
-This is because FGO is not designed to handle high volumes of action, but thanks to FGA, we can lotto forever. 
-But it's kinda a pain to clean up, so here we are. Automating even the minor actions.
+I made Bluestacks macros for EXP feeding, Skill Uping, CE Merging, and mass ascensions. This is because FGO is not designed to handle high volumes of action due to user fatigue, but thanks to FGA, we can sidestep that design decision. But there still are repetitive actions that FGO has baked in due to that design decision. So here we are, automating the process of mobilizing power.
 
 ---
 How to use:
