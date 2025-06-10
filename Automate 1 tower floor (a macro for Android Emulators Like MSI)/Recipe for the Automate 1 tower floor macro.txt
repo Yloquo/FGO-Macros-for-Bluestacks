@@ -1,0 +1,35 @@
+Recipe for Automate tower 1 floor
+
+
+1. Do this 3 times: A press on the screen. Wait ~6 seconds to ensure taps aren't consumed by lag. They can be anywhere but I made mine center far left.
+The reason why it is 3 is because worst case scenario you need to tap the screen 3 times; always once to clear the FGA completed box, the second to clear the quest reward screen (sometimes FGA does not clear these), and the third to clear the ~special~ reward screen.
+
+In the Merge Macro Screen there should be a drop down menu where you can enter # of loops and second delay.
+
+This is "Sometimes there's a fou." macro.
+--
+
+1->2. Wait ~3 seconds. There should be a Delay Next Script by 3 seconds. 
+
+--
+
+2. Press the button which activates FGA, then in the FGA popup, press the Run limit box so the FGA will run once.
+
+This is "Begin FGA (1 run)."
+--
+
+2->3. FGA will take you to the confirm party screen.
+Wait ~7 seconds. This is because the screen transitions which can be laggy.
+
+--
+
+3. Press auto setup, Confirm, Okay. 
+
+This is "Auto swap Party."
+
+
+If done right, you should be now entering the Battle Loading screen, where FGA will handle the battle.
+--
+
+4. Complete. If the macro is correct you are either: Staring at "FGA completed" in the tower quest screen, RECIEVED A FOU/MANA PRISM, or HURRAY YOU COMPLETED A FLOOR ENDING IN 5 OR 0
+
