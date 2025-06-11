@@ -1,0 +1,43 @@
+Recipe for EXP all Pals
+
+Merged Recipe
+/*
+GOTO Servant Select
+Select second
+Auto EXP
+GOTO Servant Select
+Select Third
+Auto EXP
+*/
+
+
+1: Press a part of the screen to go into servant select. I found near top-left of the card area works.
+
+This is the GOTO macro.
+--
+
+2: Press a part of the screen to select the second (topmost row, second from left) card.
+This part of the screen is dangerous and can break the macro by returning from enhance to servant select. 
+
+This is the Select Second Macro.
+--
+
+3:  Press Auto Select, OK, Enhance, and then OK
+
+
+4: Press the screen a bunch so that when the animation ends and you are on "Servant gained EXP screen",
+you can return to the enhancement screen. I recommend a bit to the left of enhance.
+
+Both are part of Auto EXP All pals.
+
+---
+
+5: Press a part of the screen to select the third (topmost row, third from left) card.
+There are safe spots that won't break the overall macro for this macro
+
+This is Select Third Macro.
+---
+
+6: Finished.
+
+*If you have concerns about lag eating inputs, you can tap multiple times when recording. 
