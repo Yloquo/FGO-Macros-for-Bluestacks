@@ -1,36 +1,26 @@
 # FGO-Macros-for-Bluestacks
 
 ---
-I made Bluestacks macros for EXP feeding, Skill Uping, CE Merging, and mass ascensions. This is because FGO is not designed to handle high volumes of action due to user fatigue, but thanks to FGA, we can sidestep that design decision. But there still are repetitive actions that FGO has baked in due to that design decision. So here we are, automating the process of mobilizing power.
+This is a repository for Macros to be used with Android Emulators. I'm using MSI but I'm including recipes to make your own for the more complex ones. It's because some people liked them and I'm sure I need a space to hold all these macros.
+Hopefully they help you as well.
 
 ---
 How to use:
 
-!!!You're using BlueStacks!!!
+You're using an android Emulator. 
+Some emulators you can import, for others you might have to make them yourself from the recipes I've given.
 
-!!!You can't just put the macros in the macro folder!!! I did that and it didn't work. 
+You've got a basic understanding of Macros.
 
-Therefore, we need to import them through the Bluestacks Macros UI.
-
-Also importing doesn't work if the macros are in the macro folder. I did that as well and it also doesn't work. 
-(Feel free to try them, though. It's not going to ruin everything forever.)
-
-
-In Bluestacks Macro recorder (shortcut: Ctrl+Shift+7) icon weird clipboard with a play icon, found under ... icon, 
-click the import icon (on the same horizontal line as "Record new macro", square with the arrow pointing down).
-Go to wherever you've put the macros, and select them. 
-
-Hit the play icon under action that lines up to the correct macro. The settings are to the right of that, and Skill Up is best used with that icon.
-They should run indefinitely (except for skill up, which works best if it doesn't), but if not, go check that box.
+Some Macros use FGA as well.
 
 
 ---
 
 Overview:
 
-1-Dude EXP: Feeds EXP to the selected servant. No need to worry about feeding inefficiently.
 
-All Dudes EXP: Feeds EXP to all servants in an unequal manner (See How they work for more details). 
+All Pals EXP: Feeds EXP to all servants. Eventually.
 Best used if you don't care too much for where EXP goes. 
 It WILL feed EXP to randos, like your dupe Sthenos, so make sure that they are in second archive or burnt.
 
@@ -44,21 +34,11 @@ It'll also hang up if you're trying to feed a CE that's equipped.
 
 Mass Ascension: It ascends all servants that can be ascended, except for the for displayed servant. Since servants talk to you while ascending, there is a lot of waiting between ascending and going to the next servant.
 
+Automate 1 tower floor:
+We love towers, don't we. This takes you through 1 floor, using the FGA and auto party function newly introduced in the tower of 2025/2023.
+Since there's special events every so often you can't just put this to 100 and do it. At least for the first 100 floors.
+
 ----
-
-Setup 
-1-Dude EXP: 
-Have set a servant to feed EXP to.
-Currently on selecting EXP screen.
-Make sure Auto-EXP select is set properly. 
-
-
-All Dudes EXP:  
-Make sure Filters for Auto-EXP and Servant select are set properly. 
-Servant select screen is set to smallest (out of the three sizes in the bottom-left). 
-Currently on selecting EXP screen.
-For efficiency's sake, have at least 2 servants to enhance. Otherwise, just use the 1-dude.
-Make sure that servants you don't want to feed are in second archive or burnt.
 
 
 Skill Up: 
@@ -80,29 +60,6 @@ Mass Ascension:
 Have at least 2 servants to ascend.
 Servant select screen is set to lowest, and filters are configured properly.
 
-
-----
-
-How they work:
-
-1-Dude: It feeds EXP to the selected servant.
-
-All Dudes: It selects the second servant in the select screen, then feeds EXP to that servant. Repeat. 
-The results are that the first two servants in the select screen get fed first, then moves on to the next two 
-(or vaguely a 2-1 2-1... 2-3 2-3 4-3 4-3 4-3... [n] [n-1] feed order ). 
-If it selects a full servant, it just misses a cycle, but won't fail spectacularly.
-
-For both, there’s no need to worry about failing, if there’s no more exp cards, it will hang on the “There’s no more EXP” box, 
-and if there’s no more stomach for exp, it will hang on the exp select screen. 
-
-Skill up: It skills up the skill for n times, where n is the number set in settings. Note that repeat once means running one time,
-and repeating 0 times means 0 times, since 1 run * 0 times = 0.
-
-CE Merging: It opens the CE to mulch screen, scrolls down about 7 lines to select the CEs, and feeds to the selected CE. 
-This it will eventually eat CEs you want to keep, so you need to lock that much CEs to ensure the safety of your box.
-The macro won't unlock your CEs.
-
-Mass Ascension: It selects the second servant, because the entire hitbox which chooses the first servant in the servant select screen is overlapped by the "choose a servant" hitbox in the ascension screen. Because of this, it's more useful the less you want to ascend the first servant. 
 
 ---
 
