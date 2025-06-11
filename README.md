@@ -64,7 +64,7 @@ Servant select screen is set to lowest, and filters are configured properly.
 ---
 
 Final notes:
-DM, email, or Git@ me if there's something wrong, or cool you've done with it. Or if you want to hang out. I'm not that "visible" online, but I lurk a lot.
+I'm available on Discord, sometimes through emails and Git.
 
 Thanks to:
 The maker(s) of Fate Grand Automata. Without your work, there wouldn't even be a realization that this is necessary.
