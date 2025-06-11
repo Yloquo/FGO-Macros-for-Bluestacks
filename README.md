@@ -65,10 +65,10 @@ Servant select screen is set to lowest, and filters are configured properly.
 
 Final notes:
 I'm available on Discord, sometimes through emails and Git.
+Discord is LXP, usually around the main Goon (SA) Discord and FGO Discord.
 
 Thanks to:
-The maker(s) of Fate Grand Automata. Without your work, there wouldn't even be a realization that this is necessary.
-Bluestacks. For accepting automation on your servers.
+The maker(s) of Fate Grand Automata. Without your work, I'd be in the lotto mines. And also showing everyone that automation is cool, actually.
 All the pals in the goon discords. I <3 all of you guys and your ramblings.
 
 
