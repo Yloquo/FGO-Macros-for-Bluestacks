@@ -60,6 +60,7 @@ Mass Ascension:
 Have at least 2 servants to ascend.
 Servant select screen is set to lowest, and filters are configured properly.
 
+I haven't tested CE merging or Mass Ascension since 2020 so I can't guarantee if they work or not.
 
 ---
 
